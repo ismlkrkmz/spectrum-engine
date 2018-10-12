@@ -23,7 +23,7 @@ Supported types of perception:
 	- Smelling (Not Yet Available)
 		- Gas State Chemical Perception (in Future) (WARNING: Sensor Technology Not Available)
 
-*Touching, Tasting and Smelling is not yet available. Because of their absence there is a False Reward & Punishment Mechanism*
+*Touching, Tasting and Smelling is not yet available. Because of they are not able to measure with sensors and even if they are available for that then there might be a False Reward & Punishment Mechanism in the network anyway*
 
 > SpectrumEngine's purpose is getting continuous data inputs from different types of sensors as
 > events, depending on the predefined threshold values and creating a complex time based relations
