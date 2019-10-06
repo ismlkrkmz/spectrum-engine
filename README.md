@@ -2,6 +2,13 @@
 
 An implementation of "General Purpose Multisensorial Supervised (& Reinforcement) Learning Algorithm with Time Series Memory Recording & Neural Memory Networking"
 
+> SpectrumEngine's purpose is getting continuous data inputs from different types of sensors as
+> events, depending on the predefined threshold values and creating a complex time based relations
+> between these events in memory and we call that Neural Memory Networking. Lastly creating outputs
+> triggered by stimuli that coming from only one perception type.
+
+
+
 Supported types of perception:
 
 	-  Vision
@@ -25,10 +32,6 @@ Supported types of perception:
 
 *Touching, Tasting and Smelling is not yet available. Because of they are not able to measure with sensors and even if they are available for that then there might be a False Reward & Punishment Mechanism in the network anyway*
 
-> SpectrumEngine's purpose is getting continuous data inputs from different types of sensors as
-> events, depending on the predefined threshold values and creating a complex time based relations
-> between these events in memory and we call that Neural Memory Networking. Lastly creating outputs
-> triggered by stimuli that coming from only one perception type.
 
 ### Version
 0.0.86
